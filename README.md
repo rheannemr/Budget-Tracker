@@ -21,7 +21,7 @@ Budget Tracker meets the following criteria:
 
 ## Link to Deployed Application
 
-https://dashboard.heroku.com/apps/offandon-budgettracker/deploy/github
+https://offandon-budgettracker.herokuapp.com/
 
 ## Technologies
 
