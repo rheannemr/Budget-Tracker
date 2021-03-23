@@ -15,9 +15,9 @@ Budget Tracker meets the following criteria:
 
   GIVEN I am using the budget tracker app <br />
   WHEN I enter in a transaction name and amount <br />
-  THEN
-  WHEN
-  THEN
+  THEN I can choose whether to add/subtract those funds <br />
+  WHEN I add/subtract the funds <br />
+  THEN the total over time chart and total dollars update on the page <br />
 
 ## Link to Deployed Application
 
