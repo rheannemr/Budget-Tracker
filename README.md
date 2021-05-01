@@ -5,7 +5,8 @@ The Budget Tracker application allows the user to manage their funds. They will 
 ## Table of Contents
 
 - [General Info](#general-info)
-- [Link to deployed application](#general-info)
+- [Link to Deployed Application](#link-to-deployed-application)
+- [Budget Tracker Image](#budget-tracker-image)
 - [Technologies](#technologies)
 - [Author](#author)
 
@@ -22,6 +23,9 @@ Budget Tracker meets the following criteria:
 ## Link to Deployed Application
 
 https://offandon-budgettracker.herokuapp.com/
+
+## Budget Tracker Image
+![image](https://user-images.githubusercontent.com/71292617/116773706-e0559780-aa0b-11eb-857e-00184c3c2656.png)
 
 ## Technologies
 
